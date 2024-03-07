@@ -1,6 +1,6 @@
 {
-  "name": "chainproxy",
-  "version": "1.0.7",
+  "name": "calling-chain",
+  "version": "1.0.1",
   "description": "a module help you make calling chain",
   "engines": {
     "node":">=6.0.0"
@@ -11,15 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngtmuzi/chainProxy.git"
+    "url": "https://github.com/unfoshot/calling-chain-master.git"
   },
   "keywords": [
     "Proxy"
   ],
+  "dependencies": {
+    "@bitwarden/cli": "^1.4.0",
+    "jest": "^24.1.0"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.3"
+  },
   "author": "ngtmuzi",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ngtmuzi/chainProxy/issues"
-  },
-  "homepage": "https://github.com/ngtmuzi/chainProxy#readme"
+  "homepage": "https://github.com/unfoshot/calling-chain-master.git"
 }
