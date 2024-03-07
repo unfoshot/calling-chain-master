@@ -1,0 +1,25 @@
+{
+  "name": "chainproxy",
+  "version": "1.0.7",
+  "description": "a module help you make calling chain",
+  "engines": {
+    "node":">=6.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngtmuzi/chainProxy.git"
+  },
+  "keywords": [
+    "Proxy"
+  ],
+  "author": "ngtmuzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngtmuzi/chainProxy/issues"
+  },
+  "homepage": "https://github.com/ngtmuzi/chainProxy#readme"
+}
